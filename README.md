@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 def fibonacci(n):
-    if n <= 0:
+     n <= 0:
         return []
     elif n == 1:
         retur [0]
