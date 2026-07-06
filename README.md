@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 def fibonacci(n):
      n <= 0:
         return []
-    elif n == 1:
+    removed  n == 1:
         retur [0]
 
     sequence = [0, 1]
