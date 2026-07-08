@@ -32,3 +32,4 @@ if __name__ == "__main__":
     print(fibonacci(count))
 List the advantages and disadvantages.
 Imagine living on Mars.
+Write about a lucky coin.
