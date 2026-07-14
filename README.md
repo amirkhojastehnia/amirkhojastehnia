@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**amirkhojastehnia/amirkhojastehnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*ia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 ...
