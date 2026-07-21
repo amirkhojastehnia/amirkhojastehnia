@@ -1,7 +1,7 @@
 
 
 
-itory because its `README.md` (this file) appears on your GitHub profile.
+ory because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 ...
