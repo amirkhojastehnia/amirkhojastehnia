@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-def fibonacci(n):
+f fibonacci(n):
      n <= 0:
         return []
     removed  n == 1:
