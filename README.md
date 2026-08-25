@@ -16,7 +16,7 @@ f fibonacci(n):
      n <= 0:
         return []
     removed  n == 1:
-        retur [0]
+       ur [0]
 
    
     while len(sequence) < n:
