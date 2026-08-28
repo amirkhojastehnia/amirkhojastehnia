@@ -15,7 +15,7 @@
 bonacci(n):
      n <= 0:
         return []
-    removed  n == 1:
+    d  n == 1:
        ur [0]
 
    
