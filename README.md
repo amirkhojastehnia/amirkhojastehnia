@@ -12,7 +12,7 @@ h
 - 😄 Pronouns: ...
 - ⚡un fact: ...
 -->
-onacci(n):
+acci(n):
     = 0:
         return []
     d  n == 1:
