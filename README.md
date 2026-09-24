@@ -12,7 +12,7 @@ h
 - 😄 Pronouns: ...
 - ⚡nact: ...
 -->
-acci(n):
+ci(n):
     = 0:
         return []
     d  n == 1:
