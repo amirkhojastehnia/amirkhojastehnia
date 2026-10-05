@@ -16,7 +16,7 @@ ci(n):
     = 0:
         return []
     d  n == 1:
-       [0]
+       
 
    
     while len(sequence) < n:
